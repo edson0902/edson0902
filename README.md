@@ -1,3 +1,7 @@
+
+<!---comentario, serve para esconder ou ocultar dados --->
+![neymar](https://i.gifer.com/origin/9f/9f91f60fb9ecd62c182f0d3719fd2aa1_w200.gif)
+
 # Sobre mim **Edson**
 - ## **Olá eu sou @edson0902**
 - :+1:O meu [e-mail](figueiredo.edson@escola.pr.gov.br)
